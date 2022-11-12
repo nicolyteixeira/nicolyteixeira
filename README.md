@@ -4,7 +4,6 @@
 <div style="display: inline_block" "align=center">
   <a href="https://github.com/nicolyteixeira">
   <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolyteixeira&layout=compact&langs_count=7&theme=dracula"/>
-    <img align="right" alt="picrew" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202209/338224_4ZYAV3uu.png">
     </div>
   <br>
   
@@ -19,7 +18,7 @@
   ##
  
 <div> 
-  <a href="https://instagram.com/nicolytxeira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/nicolyteixeirx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:nicoly.teixeira04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
  </a>
 </div>
