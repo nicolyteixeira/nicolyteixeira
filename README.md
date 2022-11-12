@@ -3,7 +3,7 @@
   <div  align="center"> 
 <div style="display: inline_block" "align=center">
   <a href="https://github.com/nicolyteixeira">
-  <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolyteixeira&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolyteixeira&layout=compact&langs_count=7&theme=omni"/>
     </div>
   <br>
   
